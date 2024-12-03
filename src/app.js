@@ -23,4 +23,3 @@ window.onload = function() {
   document.querySelector("#excuse").innerHTML =
     first + noun[rdm1] + action[rdm2] + possetion[rdm3] + where[rdm4];
 };
-
